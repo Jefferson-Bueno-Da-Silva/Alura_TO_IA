@@ -17,7 +17,7 @@ const API_KEY = import.meta.env.VITE_API_KEY;
 function App() {
   const genAI = new GoogleGenerativeAI(API_KEY);
   const [clinicalCase, setClinicalCase] = useState<string>()
-  const [result, setResult] = useState('# Aguardando caso clinico...')
+  const [result, setResult] = useState('# Aguardando caso clínico...')
   const [loading, setLoading] = useState(false)
 
   async function onSubmit(e?: FormEvent<HTMLFormElement>) {
@@ -88,7 +88,7 @@ function App() {
         <FormControl fullWidth variant="standard">
           <TextField
             id="standard-multiline-flexible"
-            label="Descreva o caso clinico do seu filho(a)"
+            label="Descreva o caso clínico do seu filho(a)"
             multiline
             maxRows={10}
             variant="standard"
