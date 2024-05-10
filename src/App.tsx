@@ -62,8 +62,27 @@ function App() {
   return (
     <Box>
       <Typography variant='h3'>
-        IA para: Apoio a Pais e Responsáveis de Crianças com TEA
+        Orientação para Pais e Responsáveis de Crianças Autistas
       </Typography>
+
+      <Typography variant='h5' marginTop={8} >
+        Objetivo:
+      </Typography>
+      <Typography variant='body1'>
+        O objetivo desse projeto é capacitar pais, mães e responsáveis de crianças autistas com o conhecimento e as ferramentas necessárias para implementar orientações baseadas em evidências. Essas orientações visam auxiliar no desenvolvimento de habilidades essenciais para o progresso e bem-estar de seus filhos e filhas.
+      </Typography>
+
+      <br />
+      <Typography variant='body1'>
+        Base de Conhecimento: A inteligência artificial deste projeto foi treinada com base nos dados e informações presentes no livro "Ensino de Habilidades Básicas para Pessoas com Autismo".
+      </Typography>
+      <br />
+      <Typography sx={{ fontStyle: 'italic' }} variant='subtitle2'>
+        Powered by Google Gemini
+      </Typography>
+
+
+
 
       <Box marginTop={10} display="flex" alignItems={"center"} component={"form"} onSubmit={onSubmit}>
         <FormControl fullWidth variant="standard">
