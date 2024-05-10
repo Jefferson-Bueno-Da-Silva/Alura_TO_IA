@@ -6,7 +6,7 @@ Este repositório contém o código da página web "IA para: Apoio a Pais e Resp
 
 # Teste agora:
  
-- Você pode testar agora o aplicativo publicado [teste agora]();
+- Você pode testar agora o aplicativo publicado [teste agora](https://tea-ai-3edaa.web.app/);
 
 - O livro usado nesse notebook esta dentro desse repositório também [aqui](https://github.com/Jefferson-Bueno-Da-Silva/Alura_TO_IA/blob/main/1605727882-ensino-de-habilidades-basicas-para-pessoas-com-autismo-pdf%20(1).pdf), porem use a versão web que foi melhor otimizada 😉
 
