@@ -6,6 +6,8 @@ Este repositório contém o código da página web "IA para: Apoio a Pais e Resp
 
 ### Também nesse repositório, baixe o notebook [aqui](https://github.com/Jefferson-Bueno-Da-Silva/Alura_TO_IA/blob/main/TOIA.ipynb) e use dentro do google colab.
 ### O livro usado nesse notebook esta dentro desse repositório também [aqui](https://github.com/Jefferson-Bueno-Da-Silva/Alura_TO_IA/blob/main/1605727882-ensino-de-habilidades-basicas-para-pessoas-com-autismo-pdf%20(1).pdf), porem use a versão web que foi melhor otimizada 😉
+### acesse o google colab [aqui](https://colab.research.google.com/drive/1yGREv0JRycJ_SX105p7-gR361v2nJXX_?usp=sharing).
+
 
 ## Tecnologias Utilizadas
 
